@@ -2,7 +2,7 @@
   "name": "resume-tailwind-css",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "dev": "tailwindcss build src/css/tailwind.css -o dist/css/tailwind.min.css",
     "build": "postcss src/css/tailwind.css -o dist/css/tailwind.min.css"
